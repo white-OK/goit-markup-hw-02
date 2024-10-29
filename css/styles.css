@@ -68,8 +68,8 @@ ul {
     gap: 10px;
 }
 .section-two {
-    /* width: 1128px;
-    height: 104px; */
+    width: 1128px;
+    /* height: 104px; */
 }
 .section-two-list-title {
     font-weight: 500;
