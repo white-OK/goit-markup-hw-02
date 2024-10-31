@@ -1,10 +1,10 @@
 body {
     font-family: "Roboto",
         sans-serif;
-     color: #434455;
+    color: #434455;
     background-color: #FFFFFF;
     font-size: 16px;
-        line-height: 1.5;
+    line-height: 1.5;
 }
 a {
     text-decoration: none;
@@ -67,12 +67,12 @@ address {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    
     background: #4d5ae5;
-    display: flex;
-    align-items: flex-start;
+    
+    
     justify-content: flex-start;
-    flex-direction: row;
+    
     gap: 10px;
     cursor: pointer;
     font-family: "Roboto", sans-serif
@@ -162,8 +162,7 @@ background: #fff;
 
 .ftr {
     background: #2e2f42;
-    width: 1440px;
-    height: 312px;
+   
 }
 .ftr-logo-studio {
     color: #f4f4fd;
