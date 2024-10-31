@@ -69,11 +69,6 @@ address {
     color: #fff;
     
     background: #4d5ae5;
-    
-    
-    justify-content: flex-start;
-    
-    gap: 10px;
     cursor: pointer;
     font-family: "Roboto", sans-serif
 }
